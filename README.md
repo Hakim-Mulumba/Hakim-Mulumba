@@ -2,6 +2,8 @@
 
 A motivated and tech-savvy college student with aspiring for networking and IT solutions. Equipped with a Google Certificate and Certificate of Education.
 
+### Skills; Programming, Problem-solving, communication, networking, cloud technologies, linux, SQL.
+
 ## Education
 
 **Hopwood Hall College** – Manchester City, UK
