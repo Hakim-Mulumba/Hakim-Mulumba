@@ -1,12 +1,23 @@
-## Objective
+## PROFESSIONAL PROFILE 
 
-A motivated and tech-savvy college student with aspiring for networking and IT solutions. Equipped with a Google Certificate and Certificate of Education.
+An accomplished IT student with a strong academic record and a passion for the technology sector. Currently pursuing a T-Level Certificate in Digital Production, Design, and Development at Hopwood Hall College and University Centre, with a predicted Distinction grade. 
 
-### Skills; Programming, Problem-solving, communication, networking, cloud technologies, linux, SQL.
+I have already earned several qualifications, including the Google Cybersecurity Certificate and a Certificate of Education, and am now seeking an industry placement where I can apply and further develop the skills I have gained. 
+
+### Core Skills; 
+
+- Programming,
+- Problem-solving
+- communication
+- networking
+- cloud technologies
+- linux
+- SQL.
+- Python
 
 ## Education
 
-**Hopwood Hall College** – Manchester City, UK
+**Hopwood Hall College** – Milddeton, UK
 - Degree: T-Level Digital Production, Design and Development.
 - Septmebet, 2024 – Present
 - Relevant coursework: Networking, IT Security, Data Communications, Programming.
